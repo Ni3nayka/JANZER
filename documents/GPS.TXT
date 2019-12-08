@@ -1,0 +1,3458 @@
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:18; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:20; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:22; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:24; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:26; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:28; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:30; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:32; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:34; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:36; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:38; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:40; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:42; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:44; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:46; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:48; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:50; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:52; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:54; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:56; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:01:58; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:00; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:02; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:04; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:06; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:08; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:10; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:12; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:14; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:16; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:18; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:20; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:22; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:24; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:26; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:28; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:30; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:32; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:34; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:36; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:38; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:40; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:42; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:44; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:46; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:48; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:50; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:52; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:54; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:56; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:58; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:02:59; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 1; 
+gps time: 00:03:01; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 00:03:03; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 00:03:05; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 00:03:07; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 00:03:09; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 00:03:11; 
+gps date: 06.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 15:11:46; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 15:11:48; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 15:11:50; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 15:11:52; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 15:11:54; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 15:11:56; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:11:58; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:00; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:02; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:04; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:06; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 2; 
+gps time: 15:12:08; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:10; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:12; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:14; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:16; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:18; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:20; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:22; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:24; 
+gps date: 08.01.80; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:26; 
+gps date: 01.10.19; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:28; 
+gps date: 01.10.19; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:30; 
+gps date: 01.10.19; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:12:32; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386910; 037.402828; 
+gps satellites: 3; 
+gps time: 15:12:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386927; 037.402822; 
+gps satellites: 3; 
+gps time: 15:12:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386921; 037.402825; 
+gps satellites: 3; 
+gps time: 15:12:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386939; 037.402822; 
+gps satellites: 3; 
+gps time: 15:12:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386936; 037.402821; 
+gps satellites: 3; 
+gps time: 15:12:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386938; 037.402826; 
+gps satellites: 3; 
+gps time: 15:12:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386935; 037.402829; 
+gps satellites: 3; 
+gps time: 15:12:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386944; 037.402826; 
+gps satellites: 3; 
+gps time: 15:12:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386956; 037.402824; 
+gps satellites: 3; 
+gps time: 15:12:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386970; 037.402824; 
+gps satellites: 3; 
+gps time: 15:12:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386984; 037.402823; 
+gps satellites: 3; 
+gps time: 15:12:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386996; 037.402822; 
+gps satellites: 3; 
+gps time: 15:12:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387008; 037.402824; 
+gps satellites: 3; 
+gps time: 15:12:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387014; 037.402827; 
+gps satellites: 3; 
+gps time: 15:13:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387018; 037.402832; 
+gps satellites: 3; 
+gps time: 15:13:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387019; 037.402834; 
+gps satellites: 3; 
+gps time: 15:13:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387018; 037.402835; 
+gps satellites: 3; 
+gps time: 15:13:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387019; 037.402837; 
+gps satellites: 3; 
+gps time: 15:13:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387023; 037.402836; 
+gps satellites: 3; 
+gps time: 15:13:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387024; 037.402836; 
+gps satellites: 3; 
+gps time: 15:13:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387025; 037.402837; 
+gps satellites: 3; 
+gps time: 15:13:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387026; 037.402841; 
+gps satellites: 3; 
+gps time: 15:13:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402843; 
+gps satellites: 3; 
+gps time: 15:13:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387028; 037.402845; 
+gps satellites: 3; 
+gps time: 15:13:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402847; 
+gps satellites: 3; 
+gps time: 15:13:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387033; 037.402847; 
+gps satellites: 3; 
+gps time: 15:13:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387033; 037.402847; 
+gps satellites: 3; 
+gps time: 15:13:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387034; 037.402847; 
+gps satellites: 3; 
+gps time: 15:13:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402849; 
+gps satellites: 3; 
+gps time: 15:13:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402849; 
+gps satellites: 3; 
+gps time: 15:13:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402851; 
+gps satellites: 3; 
+gps time: 15:13:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402853; 
+gps satellites: 3; 
+gps time: 15:13:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387039; 037.402854; 
+gps satellites: 3; 
+gps time: 15:13:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387040; 037.402856; 
+gps satellites: 3; 
+gps time: 15:13:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387040; 037.402858; 
+gps satellites: 3; 
+gps time: 15:13:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387040; 037.402858; 
+gps satellites: 3; 
+gps time: 15:13:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387041; 037.402860; 
+gps satellites: 3; 
+gps time: 15:13:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402863; 
+gps satellites: 3; 
+gps time: 15:13:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402866; 
+gps satellites: 3; 
+gps time: 
+
+gps coordinates: 55.387043; 037.402868; 
+gps satellites: 3; 
+gps time: 15:13:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402871; 
+gps satellites: 3; 
+gps time: 15:13:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402874; 
+gps satellites: 3; 
+gps time: 15:13:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402877; 
+gps satellites: 3; 
+gps time: 15:13:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402880; 
+gps satellites: 3; 
+gps time: 15:14:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402882; 
+gps satellites: 3; 
+gps time: 15:14:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402886; 
+gps satellites: 3; 
+gps time: 15:14:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402889; 
+gps satellites: 3; 
+gps time: 15:14:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402891; 
+gps satellites: 3; 
+gps time: 15:14:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402894; 
+gps satellites: 3; 
+gps time: 15:14:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387046; 037.402897; 
+gps satellites: 3; 
+gps time: 15:14:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387046; 037.402899; 
+gps satellites: 3; 
+gps time: 15:14:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402901; 
+gps satellites: 3; 
+gps time: 15:14:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402904; 
+gps satellites: 3; 
+gps time: 15:14:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402905; 
+gps satellites: 3; 
+gps time: 15:14:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402907; 
+gps satellites: 3; 
+gps time: 15:14:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402909; 
+gps satellites: 3; 
+gps time: 15:14:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402911; 
+gps satellites: 3; 
+gps time: 15:14:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402912; 
+gps satellites: 3; 
+gps time: 15:14:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402913; 
+gps satellites: 3; 
+gps time: 15:14:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402913; 
+gps satellites: 3; 
+gps time: 15:14:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402914; 
+gps satellites: 3; 
+gps time: 15:14:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402914; 
+gps satellites: 3; 
+gps time: 15:14:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402916; 
+gps satellites: 3; 
+gps time: 15:14:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387046; 037.402917; 
+gps satellites: 3; 
+gps time: 15:14:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387046; 037.402917; 
+gps satellites: 3; 
+gps time: 15:14:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402917; 
+gps satellites: 3; 
+gps time: 15:14:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402915; 
+gps satellites: 3; 
+gps time: 15:14:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402913; 
+gps satellites: 3; 
+gps time: 15:14:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402912; 
+gps satellites: 3; 
+gps time: 15:14:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402911; 
+gps satellites: 3; 
+gps time: 15:14:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402911; 
+gps satellites: 3; 
+gps time: 15:14:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402910; 
+gps satellites: 3; 
+gps time: 15:14:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402907; 
+gps satellites: 3; 
+gps time: 15:14:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402906; 
+gps satellites: 3; 
+gps time: 15:15:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402906; 
+gps satellites: 3; 
+gps time: 15:15:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402903; 
+gps satellites: 3; 
+gps time: 15:15:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402903; 
+gps satellites: 3; 
+gps time: 15:15:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387041; 037.402900; 
+gps satellites: 3; 
+gps time: 15:15:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387041; 037.402897; 
+gps satellites: 3; 
+gps time: 15:15:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387040; 037.402896; 
+gps satellites: 3; 
+gps time: 15:15:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387038; 037.402894; 
+gps satellites: 3; 
+gps time: 15:15:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402894; 
+gps satellites: 3; 
+gps time: 15:15:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387034; 037.402895; 
+gps satellites: 3; 
+gps time: 15:15:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387033; 037.402896; 
+gps satellites: 3; 
+gps time: 15:15:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402897; 
+gps satellites: 3; 
+gps time: 15:15:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402899; 
+gps satellites: 3; 
+gps time: 15:15:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402900; 
+gps satellites: 3; 
+gps time: 15:15:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402900; 
+gps satellites: 3; 
+gps time: 15:15:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402900; 
+gps satellites: 3; 
+gps time: 15:15:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387024; 037.402900; 
+gps satellites: 3; 
+gps time: 15:15:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387022; 037.402901; 
+gps satellites: 3; 
+gps time: 15:15:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387018; 037.402902; 
+gps satellites: 3; 
+gps time: 15:15:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387017; 037.402899; 
+gps satellites: 3; 
+gps time: 15:15:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387012; 037.402897; 
+gps satellites: 3; 
+gps time: 15:15:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387008; 037.402893; 
+gps satellites: 3; 
+gps time: 15:15:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387006; 037.402891; 
+gps satellites: 3; 
+gps time: 15:15:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387003; 037.402886; 
+gps satellites: 3; 
+gps time: 15:15:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387001; 037.402884; 
+gps satellites: 3; 
+gps time: 15:15:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387002; 037.402878; 
+gps satellites: 3; 
+gps time: 15:15:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387002; 037.402873; 
+gps satellites: 3; 
+gps time: 15:15:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387006; 037.402869; 
+gps satellites: 3; 
+gps time: 15:15:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387013; 037.402868; 
+gps satellites: 3; 
+gps time: 15:15:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387019; 037.402866; 
+gps satellites: 3; 
+gps time: 15:15:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387023; 037.402863; 
+gps satellites: 3; 
+gps time: 15:16:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387026; 037.402862; 
+gps satellites: 3; 
+gps time: 15:16:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387023; 037.402862; 
+gps satellites: 3; 
+gps time: 15:16:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387023; 037.402861; 
+gps satellites: 3; 
+gps time: 15:16:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402862; 
+gps satellites: 3; 
+gps time: 15:16:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402862; 
+gps satellites: 3; 
+gps time: 15:16:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387034; 037.402861; 
+gps satellites: 3; 
+gps time: 15:16:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402859; 
+gps satellites: 3; 
+gps time: 15:16:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402859; 
+gps satellites: 3; 
+gps time: 15:16:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402858; 
+gps satellites: 3; 
+gps time: 15:16:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387026; 037.402856; 
+gps satellites: 3; 
+gps time: 15:16:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387023; 037.402857; 
+gps satellites: 3; 
+gps time: 15:16:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387021; 037.402855; 
+gps satellites: 3; 
+gps time: 15:16:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387021; 037.402852; 
+gps satellites: 3; 
+gps time: 15:16:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387021; 037.402851; 
+gps satellites: 3; 
+gps time: 15:16:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387024; 037.402850; 
+gps satellites: 3; 
+gps time: 15:16:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387024; 037.402850; 
+gps satellites: 3; 
+gps time: 15:16:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387025; 037.402850; 
+gps satellites: 3; 
+gps time: 15:16:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402850; 
+gps satellites: 3; 
+gps time: 15:16:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402850; 
+gps satellites: 3; 
+gps time: 15:16:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387032; 037.402850; 
+gps satellites: 3; 
+gps time: 15:16:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402849; 
+gps satellites: 3; 
+gps time: 15:16:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387032; 037.402852; 
+gps satellites: 3; 
+gps time: 15:16:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402853; 
+gps satellites: 3; 
+gps time: 15:16:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402854; 
+gps satellites: 3; 
+gps time: 15:16:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402856; 
+gps satellites: 3; 
+gps time: 15:16:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402854; 
+gps satellites: 3; 
+gps time: 15:16:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402854; 
+gps satellites: 3; 
+gps time: 15:16:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402854; 
+gps satellites: 3; 
+gps time: 15:16:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402854; 
+gps satellites: 3; 
+gps time: 15:16:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387040; 037.402855; 
+gps satellites: 3; 
+gps time: 15:16:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402854; 
+gps satellites: 3; 
+gps time: 15:17:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402853; 
+gps satellites: 3; 
+gps time: 15:17:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402854; 
+gps satellites: 3; 
+gps time: 15:17:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402856; 
+gps satellites: 3; 
+gps time: 15:17:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402859; 
+gps satellites: 3; 
+gps time: 15:17:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387032; 037.402860; 
+gps satellites: 3; 
+gps time: 15:17:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402863; 
+gps satellites: 3; 
+gps time: 15:17:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387034; 037.402872; 
+gps satellites: 3; 
+gps time: 15:17:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387038; 037.402877; 
+gps satellites: 3; 
+gps time: 15:17:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402881; 
+gps satellites: 3; 
+gps time: 15:17:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402883; 
+gps satellites: 3; 
+gps time: 15:17:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402883; 
+gps satellites: 3; 
+gps time: 15:17:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402878; 
+gps satellites: 3; 
+gps time: 15:17:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387046; 037.402873; 
+gps satellites: 3; 
+gps time: 15:17:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402873; 
+gps satellites: 3; 
+gps time: 15:17:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387046; 037.402873; 
+gps satellites: 3; 
+gps time: 
+
+gps coordinates: 55.387047; 037.402875; 
+gps satellites: 3; 
+gps time: 15:17:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402875; 
+gps satellites: 3; 
+gps time: 15:17:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402876; 
+gps satellites: 3; 
+gps time: 15:17:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387050; 037.402877; 
+gps satellites: 3; 
+gps time: 15:17:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387052; 037.402879; 
+gps satellites: 3; 
+gps time: 15:17:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387051; 037.402882; 
+gps satellites: 3; 
+gps time: 15:17:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387050; 037.402884; 
+gps satellites: 3; 
+gps time: 15:17:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387050; 037.402884; 
+gps satellites: 3; 
+gps time: 15:17:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402885; 
+gps satellites: 3; 
+gps time: 15:17:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402886; 
+gps satellites: 3; 
+gps time: 15:17:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402887; 
+gps satellites: 3; 
+gps time: 15:17:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402887; 
+gps satellites: 3; 
+gps time: 15:17:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402892; 
+gps satellites: 3; 
+gps time: 15:17:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402896; 
+gps satellites: 3; 
+gps time: 15:17:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402900; 
+gps satellites: 3; 
+gps time: 15:18:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402904; 
+gps satellites: 3; 
+gps time: 15:18:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387040; 037.402906; 
+gps satellites: 3; 
+gps time: 15:18:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387039; 037.402908; 
+gps satellites: 3; 
+gps time: 15:18:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402907; 
+gps satellites: 3; 
+gps time: 15:18:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402907; 
+gps satellites: 3; 
+gps time: 15:18:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387032; 037.402904; 
+gps satellites: 3; 
+gps time: 15:18:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387028; 037.402902; 
+gps satellites: 3; 
+gps time: 15:18:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387025; 037.402900; 
+gps satellites: 3; 
+gps time: 15:18:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387023; 037.402898; 
+gps satellites: 3; 
+gps time: 15:18:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387022; 037.402898; 
+gps satellites: 3; 
+gps time: 15:18:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387020; 037.402899; 
+gps satellites: 3; 
+gps time: 15:18:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387018; 037.402899; 
+gps satellites: 3; 
+gps time: 15:18:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387017; 037.402895; 
+gps satellites: 3; 
+gps time: 15:18:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387017; 037.402890; 
+gps satellites: 3; 
+gps time: 15:18:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387016; 037.402884; 
+gps satellites: 3; 
+gps time: 15:18:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387018; 037.402880; 
+gps satellites: 3; 
+gps time: 15:18:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387019; 037.402876; 
+gps satellites: 3; 
+gps time: 15:18:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387020; 037.402874; 
+gps satellites: 3; 
+gps time: 15:18:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387021; 037.402872; 
+gps satellites: 3; 
+gps time: 15:18:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387021; 037.402872; 
+gps satellites: 3; 
+gps time: 15:18:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387019; 037.402873; 
+gps satellites: 3; 
+gps time: 15:18:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387020; 037.402872; 
+gps satellites: 3; 
+gps time: 15:18:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387022; 037.402871; 
+gps satellites: 3; 
+gps time: 15:18:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387024; 037.402871; 
+gps satellites: 3; 
+gps time: 15:18:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387025; 037.402871; 
+gps satellites: 3; 
+gps time: 15:18:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387026; 037.402870; 
+gps satellites: 3; 
+gps time: 15:18:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402860; 
+gps satellites: 3; 
+gps time: 15:18:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387028; 037.402859; 
+gps satellites: 3; 
+gps time: 15:18:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402859; 
+gps satellites: 3; 
+gps time: 15:18:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402859; 
+gps satellites: 3; 
+gps time: 15:19:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387028; 037.402860; 
+gps satellites: 3; 
+gps time: 15:19:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402860; 
+gps satellites: 3; 
+gps time: 15:19:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402859; 
+gps satellites: 3; 
+gps time: 15:19:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402860; 
+gps satellites: 3; 
+gps time: 15:19:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402860; 
+gps satellites: 3; 
+gps time: 15:19:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402862; 
+gps satellites: 3; 
+gps time: 15:19:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402863; 
+gps satellites: 3; 
+gps time: 15:19:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402865; 
+gps satellites: 3; 
+gps time: 15:19:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402865; 
+gps satellites: 3; 
+gps time: 15:19:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402865; 
+gps satellites: 3; 
+gps time: 15:19:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402866; 
+gps satellites: 3; 
+gps time: 15:19:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387032; 037.402866; 
+gps satellites: 3; 
+gps time: 15:19:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387032; 037.402866; 
+gps satellites: 3; 
+gps time: 15:19:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387032; 037.402866; 
+gps satellites: 3; 
+gps time: 15:19:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387032; 037.402867; 
+gps satellites: 3; 
+gps time: 15:19:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387033; 037.402868; 
+gps satellites: 3; 
+gps time: 15:19:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387034; 037.402869; 
+gps satellites: 3; 
+gps time: 15:19:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402870; 
+gps satellites: 3; 
+gps time: 15:19:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402871; 
+gps satellites: 3; 
+gps time: 15:19:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387039; 037.402872; 
+gps satellites: 3; 
+gps time: 15:19:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387039; 037.402871; 
+gps satellites: 3; 
+gps time: 15:19:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387040; 037.402873; 
+gps satellites: 3; 
+gps time: 15:19:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402876; 
+gps satellites: 3; 
+gps time: 15:19:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402876; 
+gps satellites: 3; 
+gps time: 15:19:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402876; 
+gps satellites: 3; 
+gps time: 15:19:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402876; 
+gps satellites: 3; 
+gps time: 15:19:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402876; 
+gps satellites: 3; 
+gps time: 15:19:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402877; 
+gps satellites: 3; 
+gps time: 15:19:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402877; 
+gps satellites: 3; 
+gps time: 15:19:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387051; 037.402878; 
+gps satellites: 3; 
+gps time: 15:20:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387052; 037.402879; 
+gps satellites: 3; 
+gps time: 15:20:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387055; 037.402879; 
+gps satellites: 3; 
+gps time: 15:20:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387058; 037.402879; 
+gps satellites: 3; 
+gps time: 15:20:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387061; 037.402880; 
+gps satellites: 3; 
+gps time: 15:20:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387064; 037.402880; 
+gps satellites: 3; 
+gps time: 15:20:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387065; 037.402881; 
+gps satellites: 3; 
+gps time: 15:20:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387068; 037.402881; 
+gps satellites: 3; 
+gps time: 15:20:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402881; 
+gps satellites: 3; 
+gps time: 15:20:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387075; 037.402880; 
+gps satellites: 3; 
+gps time: 15:20:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387078; 037.402879; 
+gps satellites: 3; 
+gps time: 15:20:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387079; 037.402880; 
+gps satellites: 3; 
+gps time: 15:20:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387078; 037.402883; 
+gps satellites: 3; 
+gps time: 15:20:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387075; 037.402887; 
+gps satellites: 3; 
+gps time: 15:20:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387073; 037.402889; 
+gps satellites: 3; 
+gps time: 15:20:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387069; 037.402890; 
+gps satellites: 3; 
+gps time: 15:20:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387067; 037.402891; 
+gps satellites: 3; 
+gps time: 15:20:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387066; 037.402891; 
+gps satellites: 3; 
+gps time: 15:20:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387063; 037.402891; 
+gps satellites: 3; 
+gps time: 15:20:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387059; 037.402890; 
+gps satellites: 3; 
+gps time: 15:20:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387057; 037.402890; 
+gps satellites: 3; 
+gps time: 15:20:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387055; 037.402890; 
+gps satellites: 3; 
+gps time: 15:20:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387052; 037.402889; 
+gps satellites: 3; 
+gps time: 15:20:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402887; 
+gps satellites: 3; 
+gps time: 15:20:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402888; 
+gps satellites: 3; 
+gps time: 15:20:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402886; 
+gps satellites: 3; 
+gps time: 15:20:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402886; 
+gps satellites: 3; 
+gps time: 15:20:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402886; 
+gps satellites: 3; 
+gps time: 15:20:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402885; 
+gps satellites: 3; 
+gps time: 15:20:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402884; 
+gps satellites: 3; 
+gps time: 15:20:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402883; 
+gps satellites: 3; 
+gps time: 15:21:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402882; 
+gps satellites: 3; 
+gps time: 15:21:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402881; 
+gps satellites: 3; 
+gps time: 15:21:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402880; 
+gps satellites: 3; 
+gps time: 15:21:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402879; 
+gps satellites: 3; 
+gps time: 15:21:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402879; 
+gps satellites: 3; 
+gps time: 15:21:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402879; 
+gps satellites: 3; 
+gps time: 
+
+gps coordinates: 55.387050; 037.402879; 
+gps satellites: 3; 
+gps time: 15:21:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402879; 
+gps satellites: 3; 
+gps time: 15:21:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387050; 037.402878; 
+gps satellites: 3; 
+gps time: 15:21:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387050; 037.402876; 
+gps satellites: 3; 
+gps time: 15:21:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387050; 037.402874; 
+gps satellites: 3; 
+gps time: 15:21:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402873; 
+gps satellites: 3; 
+gps time: 15:21:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402873; 
+gps satellites: 3; 
+gps time: 15:21:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402872; 
+gps satellites: 3; 
+gps time: 15:21:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402873; 
+gps satellites: 3; 
+gps time: 15:21:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402873; 
+gps satellites: 3; 
+gps time: 15:21:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387046; 037.402874; 
+gps satellites: 3; 
+gps time: 15:21:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402876; 
+gps satellites: 3; 
+gps time: 15:21:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402877; 
+gps satellites: 3; 
+gps time: 15:21:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402877; 
+gps satellites: 3; 
+gps time: 15:21:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402877; 
+gps satellites: 3; 
+gps time: 15:21:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387044; 037.402877; 
+gps satellites: 3; 
+gps time: 15:21:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402877; 
+gps satellites: 3; 
+gps time: 15:21:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402876; 
+gps satellites: 3; 
+gps time: 15:21:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402876; 
+gps satellites: 3; 
+gps time: 15:21:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402876; 
+gps satellites: 3; 
+gps time: 15:21:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387041; 037.402876; 
+gps satellites: 3; 
+gps time: 15:21:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387039; 037.402878; 
+gps satellites: 3; 
+gps time: 15:21:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402878; 
+gps satellites: 3; 
+gps time: 15:21:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402879; 
+gps satellites: 3; 
+gps time: 15:22:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387034; 037.402881; 
+gps satellites: 3; 
+gps time: 15:22:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387033; 037.402882; 
+gps satellites: 3; 
+gps time: 15:22:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402881; 
+gps satellites: 3; 
+gps time: 15:22:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402881; 
+gps satellites: 3; 
+gps time: 15:22:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402882; 
+gps satellites: 3; 
+gps time: 15:22:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402886; 
+gps satellites: 3; 
+gps time: 15:22:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402889; 
+gps satellites: 3; 
+gps time: 15:22:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402891; 
+gps satellites: 3; 
+gps time: 15:22:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402892; 
+gps satellites: 3; 
+gps time: 15:22:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402894; 
+gps satellites: 3; 
+gps time: 15:22:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402894; 
+gps satellites: 3; 
+gps time: 15:22:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402894; 
+gps satellites: 3; 
+gps time: 15:22:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387031; 037.402895; 
+gps satellites: 3; 
+gps time: 15:22:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387033; 037.402895; 
+gps satellites: 3; 
+gps time: 15:22:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387034; 037.402896; 
+gps satellites: 3; 
+gps time: 15:22:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402895; 
+gps satellites: 3; 
+gps time: 15:22:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387038; 037.402896; 
+gps satellites: 3; 
+gps time: 15:22:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387038; 037.402897; 
+gps satellites: 3; 
+gps time: 15:22:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387038; 037.402898; 
+gps satellites: 3; 
+gps time: 15:22:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387039; 037.402898; 
+gps satellites: 3; 
+gps time: 15:22:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387041; 037.402897; 
+gps satellites: 3; 
+gps time: 15:22:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402894; 
+gps satellites: 3; 
+gps time: 15:22:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402895; 
+gps satellites: 3; 
+gps time: 15:22:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387047; 037.402892; 
+gps satellites: 3; 
+gps time: 15:22:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402892; 
+gps satellites: 3; 
+gps time: 15:22:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402891; 
+gps satellites: 3; 
+gps time: 15:22:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387050; 037.402891; 
+gps satellites: 3; 
+gps time: 15:22:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387051; 037.402889; 
+gps satellites: 3; 
+gps time: 15:22:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387052; 037.402888; 
+gps satellites: 3; 
+gps time: 15:22:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387053; 037.402886; 
+gps satellites: 3; 
+gps time: 15:23:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387055; 037.402883; 
+gps satellites: 3; 
+gps time: 15:23:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387056; 037.402879; 
+gps satellites: 3; 
+gps time: 15:23:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387058; 037.402876; 
+gps satellites: 3; 
+gps time: 15:23:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387059; 037.402873; 
+gps satellites: 3; 
+gps time: 15:23:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387061; 037.402870; 
+gps satellites: 3; 
+gps time: 15:23:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387063; 037.402868; 
+gps satellites: 3; 
+gps time: 15:23:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387064; 037.402866; 
+gps satellites: 3; 
+gps time: 15:23:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387064; 037.402866; 
+gps satellites: 3; 
+gps time: 15:23:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387065; 037.402866; 
+gps satellites: 3; 
+gps time: 15:23:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387066; 037.402865; 
+gps satellites: 3; 
+gps time: 15:23:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387067; 037.402866; 
+gps satellites: 3; 
+gps time: 15:23:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387069; 037.402866; 
+gps satellites: 3; 
+gps time: 15:23:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387071; 037.402865; 
+gps satellites: 3; 
+gps time: 15:23:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387075; 037.402865; 
+gps satellites: 3; 
+gps time: 15:23:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387076; 037.402867; 
+gps satellites: 3; 
+gps time: 15:23:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387078; 037.402868; 
+gps satellites: 3; 
+gps time: 15:23:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387079; 037.402870; 
+gps satellites: 3; 
+gps time: 15:23:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387079; 037.402873; 
+gps satellites: 3; 
+gps time: 15:23:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387081; 037.402876; 
+gps satellites: 3; 
+gps time: 15:23:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387082; 037.402878; 
+gps satellites: 3; 
+gps time: 15:23:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387082; 037.402880; 
+gps satellites: 3; 
+gps time: 15:23:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387083; 037.402884; 
+gps satellites: 3; 
+gps time: 15:23:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387082; 037.402886; 
+gps satellites: 3; 
+gps time: 15:23:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387083; 037.402892; 
+gps satellites: 3; 
+gps time: 15:23:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387083; 037.402900; 
+gps satellites: 3; 
+gps time: 15:23:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387083; 037.402910; 
+gps satellites: 3; 
+gps time: 15:23:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387082; 037.402916; 
+gps satellites: 3; 
+gps time: 15:23:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387081; 037.402914; 
+gps satellites: 3; 
+gps time: 15:23:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387080; 037.402913; 
+gps satellites: 3; 
+gps time: 15:23:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387080; 037.402906; 
+gps satellites: 3; 
+gps time: 15:24:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387080; 037.402902; 
+gps satellites: 3; 
+gps time: 15:24:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387078; 037.402900; 
+gps satellites: 3; 
+gps time: 15:24:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387077; 037.402898; 
+gps satellites: 3; 
+gps time: 15:24:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387078; 037.402896; 
+gps satellites: 3; 
+gps time: 15:24:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387078; 037.402893; 
+gps satellites: 3; 
+gps time: 15:24:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387077; 037.402888; 
+gps satellites: 3; 
+gps time: 15:24:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387075; 037.402884; 
+gps satellites: 3; 
+gps time: 15:24:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402882; 
+gps satellites: 3; 
+gps time: 15:24:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402880; 
+gps satellites: 3; 
+gps time: 15:24:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402876; 
+gps satellites: 3; 
+gps time: 15:24:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387069; 037.402872; 
+gps satellites: 3; 
+gps time: 15:24:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387069; 037.402869; 
+gps satellites: 3; 
+gps time: 15:24:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387068; 037.402868; 
+gps satellites: 3; 
+gps time: 15:24:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387068; 037.402868; 
+gps satellites: 3; 
+gps time: 15:24:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387068; 037.402869; 
+gps satellites: 3; 
+gps time: 15:24:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402868; 
+gps satellites: 3; 
+gps time: 15:24:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387071; 037.402870; 
+gps satellites: 3; 
+gps time: 15:24:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402871; 
+gps satellites: 3; 
+gps time: 15:24:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387071; 037.402873; 
+gps satellites: 3; 
+gps time: 15:24:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387071; 037.402874; 
+gps satellites: 3; 
+gps time: 15:24:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387066; 037.402876; 
+gps satellites: 3; 
+gps time: 15:24:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387063; 037.402876; 
+gps satellites: 3; 
+gps time: 15:24:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387056; 037.402877; 
+gps satellites: 3; 
+gps time: 15:24:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387056; 037.402877; 
+gps satellites: 3; 
+gps time: 15:24:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387055; 037.402877; 
+gps satellites: 3; 
+gps time: 15:24:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387055; 037.402877; 
+gps satellites: 3; 
+gps time: 15:24:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387055; 037.402877; 
+gps satellites: 3; 
+gps time: 
+
+gps coordinates: 55.387055; 037.402877; 
+gps satellites: 3; 
+gps time: 15:24:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387055; 037.402877; 
+gps satellites: 3; 
+gps time: 15:24:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387055; 037.402877; 
+gps satellites: 3; 
+gps time: 15:25:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402879; 
+gps satellites: 3; 
+gps time: 15:25:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387046; 037.402881; 
+gps satellites: 3; 
+gps time: 15:25:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402884; 
+gps satellites: 3; 
+gps time: 15:25:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387030; 037.402888; 
+gps satellites: 3; 
+gps time: 15:25:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387020; 037.402891; 
+gps satellites: 3; 
+gps time: 15:25:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387022; 037.402894; 
+gps satellites: 3; 
+gps time: 15:25:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387027; 037.402898; 
+gps satellites: 3; 
+gps time: 15:25:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402903; 
+gps satellites: 3; 
+gps time: 15:25:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387042; 037.402906; 
+gps satellites: 3; 
+gps time: 15:25:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387048; 037.402911; 
+gps satellites: 3; 
+gps time: 15:25:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387052; 037.402912; 
+gps satellites: 3; 
+gps time: 15:25:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387059; 037.402912; 
+gps satellites: 3; 
+gps time: 15:25:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387065; 037.402914; 
+gps satellites: 3; 
+gps time: 15:25:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387068; 037.402915; 
+gps satellites: 3; 
+gps time: 15:25:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402916; 
+gps satellites: 3; 
+gps time: 15:25:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387075; 037.402916; 
+gps satellites: 3; 
+gps time: 15:25:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387076; 037.402917; 
+gps satellites: 3; 
+gps time: 15:25:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387077; 037.402916; 
+gps satellites: 3; 
+gps time: 15:25:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387073; 037.402907; 
+gps satellites: 3; 
+gps time: 15:25:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402902; 
+gps satellites: 3; 
+gps time: 15:25:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387068; 037.402898; 
+gps satellites: 3; 
+gps time: 15:25:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387067; 037.402897; 
+gps satellites: 3; 
+gps time: 15:25:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387064; 037.402897; 
+gps satellites: 3; 
+gps time: 15:25:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387063; 037.402898; 
+gps satellites: 3; 
+gps time: 15:25:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387062; 037.402898; 
+gps satellites: 3; 
+gps time: 15:25:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387060; 037.402900; 
+gps satellites: 3; 
+gps time: 15:25:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387059; 037.402902; 
+gps satellites: 3; 
+gps time: 15:25:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387059; 037.402904; 
+gps satellites: 3; 
+gps time: 15:25:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387060; 037.402905; 
+gps satellites: 3; 
+gps time: 15:25:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387057; 037.402907; 
+gps satellites: 3; 
+gps time: 15:26:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387053; 037.402909; 
+gps satellites: 3; 
+gps time: 15:26:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387049; 037.402911; 
+gps satellites: 3; 
+gps time: 15:26:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387043; 037.402914; 
+gps satellites: 3; 
+gps time: 15:26:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387038; 037.402915; 
+gps satellites: 3; 
+gps time: 15:26:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387038; 037.402917; 
+gps satellites: 3; 
+gps time: 15:26:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387040; 037.402918; 
+gps satellites: 3; 
+gps time: 15:26:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387039; 037.402920; 
+gps satellites: 3; 
+gps time: 15:26:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387039; 037.402921; 
+gps satellites: 3; 
+gps time: 15:26:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387038; 037.402921; 
+gps satellites: 3; 
+gps time: 15:26:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402920; 
+gps satellites: 3; 
+gps time: 15:26:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402919; 
+gps satellites: 3; 
+gps time: 15:26:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402921; 
+gps satellites: 3; 
+gps time: 15:26:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402923; 
+gps satellites: 3; 
+gps time: 15:26:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402924; 
+gps satellites: 3; 
+gps time: 15:26:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402925; 
+gps satellites: 3; 
+gps time: 15:26:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402926; 
+gps satellites: 3; 
+gps time: 15:26:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402927; 
+gps satellites: 3; 
+gps time: 15:26:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402927; 
+gps satellites: 3; 
+gps time: 15:26:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402926; 
+gps satellites: 3; 
+gps time: 15:26:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402925; 
+gps satellites: 3; 
+gps time: 15:26:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387035; 037.402924; 
+gps satellites: 3; 
+gps time: 15:26:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402925; 
+gps satellites: 3; 
+gps time: 15:26:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387036; 037.402925; 
+gps satellites: 3; 
+gps time: 15:26:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402924; 
+gps satellites: 3; 
+gps time: 15:26:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387050; 037.402918; 
+gps satellites: 3; 
+gps time: 15:26:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387051; 037.402917; 
+gps satellites: 3; 
+gps time: 15:26:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387058; 037.402915; 
+gps satellites: 3; 
+gps time: 15:26:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387067; 037.402907; 
+gps satellites: 3; 
+gps time: 15:26:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402906; 
+gps satellites: 3; 
+gps time: 15:26:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402906; 
+gps satellites: 3; 
+gps time: 15:27:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402906; 
+gps satellites: 3; 
+gps time: 15:27:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402906; 
+gps satellites: 3; 
+gps time: 15:27:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387069; 037.402902; 
+gps satellites: 3; 
+gps time: 15:27:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387074; 037.402896; 
+gps satellites: 3; 
+gps time: 15:27:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387075; 037.402892; 
+gps satellites: 3; 
+gps time: 15:27:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402890; 
+gps satellites: 3; 
+gps time: 15:27:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402890; 
+gps satellites: 3; 
+gps time: 15:27:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402890; 
+gps satellites: 3; 
+gps time: 15:27:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402891; 
+gps satellites: 3; 
+gps time: 15:27:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402891; 
+gps satellites: 3; 
+gps time: 15:27:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402891; 
+gps satellites: 3; 
+gps time: 15:27:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387071; 037.402891; 
+gps satellites: 3; 
+gps time: 15:27:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387070; 037.402893; 
+gps satellites: 3; 
+gps time: 15:27:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387052; 037.402893; 
+gps satellites: 3; 
+gps time: 15:27:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387029; 037.402901; 
+gps satellites: 3; 
+gps time: 15:27:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387017; 037.402904; 
+gps satellites: 3; 
+gps time: 15:27:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387007; 037.402904; 
+gps satellites: 3; 
+gps time: 15:27:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386992; 037.402900; 
+gps satellites: 3; 
+gps time: 15:27:37; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386986; 037.402895; 
+gps satellites: 3; 
+gps time: 15:27:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386983; 037.402887; 
+gps satellites: 3; 
+gps time: 15:27:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386977; 037.402883; 
+gps satellites: 3; 
+gps time: 15:27:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386975; 037.402877; 
+gps satellites: 3; 
+gps time: 15:27:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386976; 037.402871; 
+gps satellites: 3; 
+gps time: 15:27:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386971; 037.402869; 
+gps satellites: 3; 
+gps time: 15:27:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386968; 037.402865; 
+gps satellites: 3; 
+gps time: 15:27:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386963; 037.402865; 
+gps satellites: 3; 
+gps time: 15:27:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386962; 037.402861; 
+gps satellites: 3; 
+gps time: 15:27:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386962; 037.402859; 
+gps satellites: 3; 
+gps time: 15:27:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386960; 037.402856; 
+gps satellites: 3; 
+gps time: 15:27:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386958; 037.402854; 
+gps satellites: 3; 
+gps time: 15:28:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386955; 037.402851; 
+gps satellites: 3; 
+gps time: 15:28:03; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386953; 037.402849; 
+gps satellites: 3; 
+gps time: 15:28:05; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386951; 037.402846; 
+gps satellites: 3; 
+gps time: 15:28:07; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386949; 037.402842; 
+gps satellites: 3; 
+gps time: 15:28:09; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386947; 037.402838; 
+gps satellites: 3; 
+gps time: 15:28:11; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386945; 037.402834; 
+gps satellites: 3; 
+gps time: 15:28:13; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386952; 037.402796; 
+gps satellites: 3; 
+gps time: 15:28:15; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386952; 037.402785; 
+gps satellites: 3; 
+gps time: 15:28:17; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386945; 037.402779; 
+gps satellites: 3; 
+gps time: 15:28:19; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386946; 037.402788; 
+gps satellites: 3; 
+gps time: 15:28:21; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386958; 037.402830; 
+gps satellites: 3; 
+gps time: 15:28:23; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386968; 037.402843; 
+gps satellites: 3; 
+gps time: 15:28:25; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386968; 037.402843; 
+gps satellites: 3; 
+gps time: 15:28:27; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386973; 037.402854; 
+gps satellites: 3; 
+gps time: 15:28:29; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386987; 037.402852; 
+gps satellites: 3; 
+gps time: 15:28:31; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.386995; 037.402859; 
+gps satellites: 3; 
+gps time: 15:28:33; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387010; 037.402870; 
+gps satellites: 3; 
+gps time: 15:28:35; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387024; 037.402870; 
+gps satellites: 3; 
+gps time: 
+
+gps coordinates: 55.387032; 037.402862; 
+gps satellites: 3; 
+gps time: 15:28:39; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387034; 037.402848; 
+gps satellites: 3; 
+gps time: 15:28:41; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387037; 037.402844; 
+gps satellites: 3; 
+gps time: 15:28:43; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387041; 037.402837; 
+gps satellites: 3; 
+gps time: 15:28:45; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387045; 037.402829; 
+gps satellites: 3; 
+gps time: 15:28:47; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387072; 037.402867; 
+gps satellites: 3; 
+gps time: 15:28:49; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387101; 037.402906; 
+gps satellites: 3; 
+gps time: 15:28:51; 
+gps date: 01.10.19; 
+
+
+gps coordinates: 55.387183; 037.402983; 
+gps satellites: 3; 
+gps time: 15:28:53; 
+gps date: 01.10.19; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:28:55; 
+gps date: 01.10.19; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:28:57; 
+gps date: 01.10.19; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:28:59; 
+gps date: 01.10.19; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:29:01; 
+gps date: 01.10.19; 
+
+
+gps coordinates: xxx; xxx; 
+gps satellites: 3; 
+gps time: 15:29:03; 
+gps date: 01.10.19; 
+

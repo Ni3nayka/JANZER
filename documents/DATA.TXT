@@ -1,0 +1,2259 @@
+
+==============================
+Real time(GMT+3): 14-10-2019, 19:14:22, Mon
+gps coordinates: 55.376457; 037.431693;
+gps satellites: 3;
+gps time: 16:14:36;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.81;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 19:14:26, Mon
+gps coordinates: 55.376453; 037.431668;
+gps satellites: 3;
+gps time: 16:14:40;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.75;
+humidity(%): 19;
+dust: 1;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 19:56:51, Mon
+gps coordinates: 55.376494; 037.431710;
+gps satellites: 3;
+gps time: 16:57:05;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.35;
+humidity(%): 19;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 19:56:57, Mon
+gps coordinates: 55.376499; 037.431713;
+gps satellites: 3;
+gps time: 16:57:11;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.38;
+humidity(%): 27;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 19:57:03, Mon
+gps coordinates: 55.376501; 037.431713;
+gps satellites: 3;
+gps time: 16:57:17;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.47;
+humidity(%): 23;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 19:57:09, Mon
+gps coordinates: 55.376503; 037.431713;
+gps satellites: 3;
+gps time: 16:57:23;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.33;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:04:45, Mon
+gps coordinates: 55.376520; 037.431733;
+gps satellites: 3;
+gps time: 17:04:59;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:04:51, Mon
+gps coordinates: 55.376523; 037.431766;
+gps satellites: 3;
+gps time: 17:05:05;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.33;
+humidity(%): 26;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:04:57, Mon
+gps coordinates: 55.376513; 037.431845;
+gps satellites: 3;
+gps time: 17:05:11;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.35;
+humidity(%): 23;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:03, Mon
+gps coordinates: 55.376516; 037.431905;
+gps satellites: 3;
+gps time: 17:05:17;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.28;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:09, Mon
+gps coordinates: 55.376522; 037.431951;
+gps satellites: 3;
+gps time: 17:05:23;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.32;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:15, Mon
+gps coordinates: 55.376522; 037.431945;
+gps satellites: 3;
+gps time: 17:05:28;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:20, Mon
+gps coordinates: 55.376524; 037.431941;
+gps satellites: 3;
+gps time: 17:05:33;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.33;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:25, Mon
+gps coordinates: 55.376527; 037.431891;
+gps satellites: 3;
+gps time: 17:05:39;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:31, Mon
+gps coordinates: 55.376527; 037.431938;
+gps satellites: 3;
+gps time: 17:05:45;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:44, Mon
+gps coordinates: 55.376549; 037.431967;
+gps satellites: 3;
+gps time: 17:05:58;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:50, Mon
+gps coordinates: 55.376561; 037.431900;
+gps satellites: 3;
+gps time: 17:06:04;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.35;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:05:56, Mon
+gps coordinates: 55.376564; 037.431904;
+gps satellites: 3;
+gps time: 17:06:10;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.32;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:02, Mon
+gps coordinates: 55.376558; 037.431873;
+gps satellites: 3;
+gps time: 17:06:16;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.37;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:08, Mon
+gps coordinates: 55.376561; 037.431881;
+gps satellites: 3;
+gps time: 17:06:22;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.34;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:14, Mon
+gps coordinates: 55.376560; 037.431889;
+gps satellites: 3;
+gps time: 17:06:27;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.35;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:19, Mon
+gps coordinates: 55.376558; 037.431895;
+gps satellites: 3;
+gps time: 17:06:32;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.33;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:24, Mon
+gps coordinates: 55.376555; 037.431901;
+gps satellites: 3;
+gps time: 17:06:38;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.32;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:30, Mon
+gps coordinates: 55.376549; 037.431911;
+gps satellites: 3;
+gps time: 17:06:44;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:36, Mon
+gps coordinates: 55.376543; 037.431921;
+gps satellites: 3;
+gps time: 17:06:50;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.33;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:42, Mon
+gps coordinates: 55.376536; 037.431929;
+gps satellites: 3;
+gps time: 17:06:56;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.32;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:48, Mon
+gps coordinates: 55.376532; 037.431937;
+gps satellites: 3;
+gps time: 17:07:01;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.32;
+humidity(%): 20;
+dust: 2;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:53, Mon
+gps coordinates: 55.376526; 037.431944;
+gps satellites: 3;
+gps time: 17:07:07;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.33;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:06:59, Mon
+gps coordinates: 55.376510; 037.431916;
+gps satellites: 3;
+gps time: 17:07:13;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.27;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:05, Mon
+gps coordinates: 55.376503; 037.431880;
+gps satellites: 3;
+gps time: 17:07:19;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.26;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:11, Mon
+gps coordinates: 55.376498; 037.431878;
+gps satellites: 3;
+gps time: 17:07:25;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 4;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:17, Mon
+gps coordinates: 55.376502; 037.431869;
+gps satellites: 3;
+gps time: 17:07:31;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.32;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:23, Mon
+gps coordinates: 55.376505; 037.431862;
+gps satellites: 3;
+gps time: 17:07:36;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.34;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:28, Mon
+gps coordinates: 55.376507; 037.431854;
+gps satellites: 3;
+gps time: 17:07:41;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:33, Mon
+gps coordinates: 55.376510; 037.431841;
+gps satellites: 3;
+gps time: 17:07:47;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.35;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:39, Mon
+gps coordinates: 55.376514; 037.431827;
+gps satellites: 3;
+gps time: 17:07:53;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:45, Mon
+gps coordinates: 55.376526; 037.431784;
+gps satellites: 3;
+gps time: 17:07:59;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.24;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:51, Mon
+gps coordinates: 55.376532; 037.431754;
+gps satellites: 3;
+gps time: 17:08:05;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3): 14-10-2019, 20:07:57, Mon
+gps coordinates: 55.376532; 037.431736;
+gps satellites: 3;
+gps time: 17:08:10;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.30;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3); 4:110-2019
+gps coordinates: 55.376470; 037.431544;
+gps satellites: 3;
+gps time: 17:14:25;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.30;
+humidity(%):  20:14:110-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 4:170-2019
+gps coordinates: 55.376461; 037.431546;
+gps satellites: 3;
+gps time: 17:14:31;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.32;
+humidity(%):  20:14:170-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 4:230-2019
+gps coordinates: 55.376506; 037.431653;
+gps satellites: 3;
+gps time: 17:14:37;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.34;
+humidity(%):  20:14:230-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 4:290-2019
+gps coordinates: 55.376553; 037.431756;
+gps satellites: 3;
+gps time: 17:14:43;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.27;
+humidity(%):  20:14:290-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 4:350-2019
+gps coordinates: 55.376582; 037.431697;
+gps satellites: 3;
+gps time: 17:14:49;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.26;
+humidity(%):  20:14:350-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 4:410-2019
+gps coordinates: 55.376599; 037.431642;
+gps satellites: 3;
+gps time: 17:14:54;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.24;
+humidity(%):  20:14:410-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 6:140-2019
+gps coordinates: 55.376502; 037.431780;
+gps satellites: 3;
+gps time: 17:16:28;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.23;
+humidity(%):  20:16:140-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 6:200-2019
+gps coordinates: 55.376502; 037.431785;
+gps satellites: 3;
+gps time: 17:16:34;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.26;
+humidity(%):  20:16:200-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 6:260-2019
+gps coordinates: 55.376505; 037.431783;
+gps satellites: 3;
+gps time: 17:16:40;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.30;
+humidity(%):  20:16:260-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 6:320-2019
+gps coordinates: 55.376503; 037.431776;
+gps satellites: 3;
+gps time: 17:16:46;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.27;
+humidity(%):  20:16:320-2019;
+dust:  Mon;
+sievert(@/42 sec): 20;
+==============================
+
+==============================
+Real time(GMT+3); 14-10-2019, 20:19:25, Mon
+gps coordinates: 55.376512; 037.431906;
+gps satellites: 3;
+gps time: 17:19:39;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.27;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3); 14-10-2019, 20:19:31, Mon
+gps coordinates: 55.376502; 037.431853;
+gps satellites: 3;
+gps time: 17:19:45;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.21;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 3;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 20:22:23, Mon
+gps coordinates: 55.376482; 037.431756;
+gps satellites: 3;
+gps time: 17:22:37;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.23;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 20:22:29, Mon
+gps coordinates: 55.376475; 037.431752;
+gps satellites: 3;
+gps time: 17:22:43;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.21;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 20:32:49, Mon
+gps coordinates: 55.376484; 037.431676;
+gps satellites: 3;
+gps time: 17:33:03;
+gps date: 14.10.19;
+temperature(C): 24.20;
+pressure(mmHg): 738.26;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 20:32:55, Mon
+gps coordinates: 55.376478; 037.431678;
+gps satellites: 3;
+gps time: 17:33:09;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.16;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 20:33:01, Mon
+gps coordinates: 55.376474; 037.431671;
+gps satellites: 3;
+gps time: 17:33:15;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.25;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:08, Mon
+gps coordinates: 55.376540; 037.431659;
+gps satellites: 3;
+gps time: 18:14:23;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.12;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:15, Mon
+gps coordinates: 55.376524; 037.431722;
+gps satellites: 3;
+gps time: 18:14:29;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:21, Mon
+gps coordinates: 55.376523; 037.431764;
+gps satellites: 3;
+gps time: 18:14:35;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.11;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:27, Mon
+gps coordinates: 55.376519; 037.431750;
+gps satellites: 3;
+gps time: 18:14:41;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.13;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:33, Mon
+gps coordinates: 55.376512; 037.431760;
+gps satellites: 3;
+gps time: 18:14:47;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.13;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:39, Mon
+gps coordinates: 55.376520; 037.431777;
+gps satellites: 3;
+gps time: 18:14:53;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.17;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:45, Mon
+gps coordinates: 55.376511; 037.431804;
+gps satellites: 3;
+gps time: 18:14:59;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.20;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:51, Mon
+gps coordinates: 55.376496; 037.431787;
+gps satellites: 3;
+gps time: 18:15:05;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.21;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:14:57, Mon
+gps coordinates: 55.376486; 037.431772;
+gps satellites: 3;
+gps time: 18:15:11;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.17;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:15:03, Mon
+gps coordinates: 55.376484; 037.431799;
+gps satellites: 3;
+gps time: 18:15:17;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.08;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:15:09, Mon
+gps coordinates: 55.376502; 037.431872;
+gps satellites: 3;
+gps time: 18:15:23;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:15:15, Mon
+gps coordinates: 55.376516; 037.431916;
+gps satellites: 3;
+gps time: 18:15:29;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.12;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:15:21, Mon
+gps coordinates: 55.376524; 037.431968;
+gps satellites: 3;
+gps time: 18:15:35;
+gps date: 14.10.19;
+temperature(C): 24.40;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:15:34, Mon
+gps coordinates: 55.376536; 037.431982;
+gps satellites: 3;
+gps time: 18:15:48;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.12;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:15:40, Mon
+gps coordinates: 55.376532; 037.431945;
+gps satellites: 3;
+gps time: 18:15:54;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:15:46, Mon
+gps coordinates: 55.376531; 037.431915;
+gps satellites: 3;
+gps time: 18:16:00;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.13;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:15:52, Mon
+gps coordinates: 55.376503; 037.431915;
+gps satellites: 3;
+gps time: 18:16:06;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 3;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:06, Mon
+gps coordinates: 55.376459; 037.431787;
+gps satellites: 3;
+gps time: 18:16:19;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.13;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:11, Mon
+gps coordinates: 55.376459; 037.431776;
+gps satellites: 3;
+gps time: 18:16:25;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.11;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:17, Mon
+gps coordinates: 55.376462; 037.431745;
+gps satellites: 3;
+gps time: 18:16:31;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.13;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:23, Mon
+gps coordinates: 55.376488; 037.431622;
+gps satellites: 3;
+gps time: 18:16:37;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.23;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:29, Mon
+gps coordinates: 55.376489; 037.431540;
+gps satellites: 3;
+gps time: 18:16:43;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:35, Mon
+gps coordinates: 55.376495; 037.431470;
+gps satellites: 3;
+gps time: 18:16:49;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.19;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:41, Mon
+gps coordinates: 55.376507; 037.431420;
+gps satellites: 3;
+gps time: 18:16:55;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.25;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:47, Mon
+gps coordinates: 55.376502; 037.431407;
+gps satellites: 3;
+gps time: 18:17:01;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.24;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:53, Mon
+gps coordinates: 55.376502; 037.431449;
+gps satellites: 3;
+gps time: 18:17:07;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:16:59, Mon
+gps coordinates: 55.376509; 037.431475;
+gps satellites: 3;
+gps time: 18:17:13;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:05, Mon
+gps coordinates: 55.376510; 037.431477;
+gps satellites: 3;
+gps time: 18:17:19;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:11, Mon
+gps coordinates: 55.376506; 037.431483;
+gps satellites: 3;
+gps time: 18:17:25;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:17, Mon
+gps coordinates: 55.376503; 037.431495;
+gps satellites: 3;
+gps time: 18:17:31;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:23, Mon
+gps coordinates: 55.376481; 037.431621;
+gps satellites: 3;
+gps time: 18:17:37;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.17;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:29, Mon
+gps coordinates: 55.376473; 037.431628;
+gps satellites: 3;
+gps time: 18:17:43;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.23;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:35, Mon
+gps coordinates: 55.376473; 037.431655;
+gps satellites: 3;
+gps time: 18:17:49;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.19;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:41, Mon
+gps coordinates: 55.376474; 037.431657;
+gps satellites: 3;
+gps time: 18:17:55;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.16;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:47, Mon
+gps coordinates: 55.376471; 037.431666;
+gps satellites: 3;
+gps time: 18:18:01;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.19;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:53, Mon
+gps coordinates: 55.376473; 037.431665;
+gps satellites: 3;
+temperature(C): 24.30;
+pressure(mmHg): 738.18;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:17:59, Mon
+gps coordinates: 55.376503; 037.431661;
+gps satellites: 3;
+gps time: 18:18:13;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.21;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:18:05, Mon
+gps coordinates: 55.376522; 037.431687;
+gps satellites: 3;
+gps time: 18:18:19;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.17;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:18:11, Mon
+gps coordinates: 55.376531; 037.431761;
+gps satellites: 3;
+gps time: 18:18:25;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.21;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:18:17, Mon
+gps coordinates: 55.376541; 037.431804;
+gps satellites: 3;
+gps time: 18:18:31;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.14;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:18:23, Mon
+gps coordinates: 55.376567; 037.431892;
+gps satellites: 3;
+gps time: 18:18:37;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.18;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:18:29, Mon
+gps coordinates: 55.376593; 037.431890;
+gps satellites: 3;
+gps time: 18:18:43;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.23;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:18:35, Mon
+gps coordinates: 55.376598; 037.431825;
+gps satellites: 3;
+gps time: 18:18:49;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.17;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:18:41, Mon
+gps coordinates: 55.376588; 037.431828;
+gps satellites: 3;
+gps time: 18:18:55;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.21;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:18:47, Mon
+gps coordinates: 55.376572; 037.431786;
+gps satellites: 3;
+gps time: 18:19:01;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.16;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:19:37, Mon
+gps coordinates: 55.376508; 037.431778;
+gps satellites: 3;
+gps time: 18:19:51;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.27;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 9;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:20:16, Mon
+gps coordinates: 55.376498; 037.431848;
+gps satellites: 3;
+gps time: 18:20:30;
+gps date: 14.10.19;
+temperature(C): 24.30;
+pressure(mmHg): 738.16;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:20:22, Mon
+gps coordinates: 55.376497; 037.431781;
+gps satellites: 3;
+gps time: 18:20:36;
+gps date: 14.10.19;
+temperature(C): 24.20;
+pressure(mmHg): 738.14;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:20:28, Mon
+gps coordinates: 55.376502; 037.431764;
+gps satellites: 3;
+gps time: 18:20:42;
+gps date: 14.10.19;
+temperature(C): 24.20;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:24:54, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.20;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:25:05, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.13;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:25:15, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.19;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:25:26, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.19;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:25:36, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.11;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:25:47, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.14;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:25:58, Mon
+gps coordinates: 55.376462; 037.431523;
+gps satellites: 3;
+gps time: 18:26:12;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.16;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:26:04, Mon
+gps coordinates: 55.376452; 037.431545;
+gps satellites: 3;
+gps time: 18:26:18;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.20;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:26:10, Mon
+gps coordinates: 55.376449; 037.431534;
+gps satellites: 3;
+gps time: 18:26:24;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.18;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:26:16, Mon
+gps coordinates: 55.376428; 037.431487;
+gps satellites: 3;
+gps time: 18:26:30;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.21;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:26:22, Mon
+gps coordinates: 55.376399; 037.431437;
+gps satellites: 3;
+gps time: 18:26:36;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.12;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:26:28, Mon
+gps coordinates: 55.376402; 037.431391;
+gps satellites: 3;
+gps time: 18:26:42;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.18;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:26:34, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.23;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:26:42, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.18;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:26:52, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:03, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.20;
+humidity(%): 20;
+dust: 3;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:14, Mon
+temperature(C): 24.50;
+pressure(mmHg): 738.24;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:25, Mon
+gps coordinates: x; x;
+gps satellites: 0;
+gps time: x;
+gps date: x;0;x;x;2;A
+temperature(C): 24.50;
+pressure(mmHg): 738.18;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:29, Mon
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 18:27:43;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.28;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:35, Mon
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 18:27:49;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.12;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:41, Mon
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 18:27:55;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.12;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:47, Mon
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 18:28:01;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.18;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:53, Mon
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 18:28:07;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.18;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:27:59, Mon
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 18:28:13;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.14;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:28:05, Mon
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 18:28:19;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.16;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 14-10-2019, 21:28:11, Mon
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 18:28:25;
+gps date: 14.10.19;
+temperature(C): 24.50;
+pressure(mmHg): 738.15;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:45:38, Tue
+temperature(C): 22.60;
+pressure(mmHg): 752.10;
+humidity(%): 31;
+dust: 3;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:45:49, Tue
+temperature(C): 22.60;
+pressure(mmHg): 752.18;
+humidity(%): 23;
+dust: 8;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:46:00, Tue
+temperature(C): 22.70;
+pressure(mmHg): 752.12;
+humidity(%): 22;
+dust: 4;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:46:10, Tue
+temperature(C): 22.70;
+pressure(mmHg): 752.11;
+humidity(%): 20;
+dust: 3;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:46:21, Tue
+temperature(C): 22.80;
+pressure(mmHg): 752.11;
+humidity(%): 20;
+dust: 4;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:46:31, Tue
+temperature(C): 22.80;
+pressure(mmHg): 752.12;
+humidity(%): 20;
+dust: 3;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:46:42, Tue
+temperature(C): 22.80;
+pressure(mmHg): 752.09;
+humidity(%): 20;
+dust: 4;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:46:53, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.13;
+humidity(%): 20;
+dust: 4;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:47:04, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.12;
+humidity(%): 20;
+dust: 4;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:47:14, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.15;
+humidity(%): 20;
+dust: 6;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:47:25, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.06;
+humidity(%): 20;
+dust: 4;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:47:35, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.15;
+humidity(%): 20;
+dust: 3;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:47:46, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.12;
+humidity(%): 20;
+dust: 5;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:47:57, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.11;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:48:07, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.09;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:48:18, Tue
+temperature(C): 22.90;
+pressure(mmHg): 752.10;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:48:28, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:48:43;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.09;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:48:34, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:48:49;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.10;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:48:40, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:48:55;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.04;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:48:46, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:49:01;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.06;
+humidity(%): 20;
+dust: 1;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:48:52, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:49:07;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.09;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 1;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:48:58, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:49:13;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.09;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:49:04, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+temperature(C): 23.00;
+pressure(mmHg): 752.06;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:49:10, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:49:25;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.06;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 0;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:49:16, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:49:30;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.01;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 22:49:22, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 19:49:36;
+gps date: 15.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.06;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 2;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 23:01:50, Tue
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 20:02:04;
+gps date: 15.10.19;
+temperature(C): 23.30;
+pressure(mmHg): 752.01;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 11;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 23:02:36, Tue
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 20:02:50;
+gps date: 15.10.19;
+temperature(C): 23.30;
+pressure(mmHg): 751.97;
+humidity(%): 23;
+dust: 0;
+sievert(@/42 sec): 10;
+==============================
+
+==============================
+Real time(GMT+3), 15-10-2019, 23:03:22, Tue
+gps coordinates: x; x;
+gps satellites: 3;
+gps time: 20:03:36;
+gps date: 15.10.19;
+temperature(C): 23.40;
+pressure(mmHg): 752.01;
+humidity(%): 23;
+dust: 0;
+sievert(@/42 sec): 16;
+==============================
+
+==============================
+Real time(GMT+3), 16-10-2019, 15:48:14, Wed
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 12:48:28;
+gps date: 16.10.19;
+temperature(C): 23.30;
+pressure(mmHg): 752.37;
+humidity(%): 18;
+dust: 1;
+sievert(@/42 sec): 12;
+==============================
+
+==============================
+Real time(GMT+3), 16-10-2019, 15:49:00, Wed
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 12:49:14;
+gps date: 16.10.19;
+temperature(C): 23.00;
+pressure(mmHg): 752.38;
+humidity(%): 18;
+dust: 1;
+sievert(@/42 sec): 15;
+==============================
+
+==============================
+Real time(GMT+3), 16-10-2019, 15:49:46, Wed
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 12:50:00;
+gps date: 16.10.19;
+temperature(C): 22.80;
+pressure(mmHg): 752.36;
+humidity(%): 17;
+dust: 1;
+sievert(@/42 sec): 12;
+==============================
+
+==============================
+Real time(GMT+3), 16-10-2019, 16:01:27, Wed
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 13:01:40;
+gps date: 16.10.19;
+temperature(C): 21.90;
+pressure(mmHg): 752.27;
+humidity(%): 19;
+dust: 1;
+sievert(@/42 sec): 16;
+==============================
+
+==============================
+Real time(GMT+3), 16-10-2019, 16:02:12, Wed
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 13:02:26;
+gps date: 16.10.19;
+temperature(C): 21.70;
+pressure(mmHg): 752.27;
+humidity(%): 19;
+dust: 1;
+sievert(@/42 sec): 9;
+==============================
+
+==============================
+Real time(GMT+3), 16-10-2019, 16:02:58, Wed
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 13:03:12;
+gps date: 16.10.19;
+temperature(C): 21.50;
+pressure(mmHg): 752.27;
+humidity(%): 19;
+dust: 1;
+sievert(@/42 sec): 16;
+==============================
+
+==============================
+Real time(GMT+3), 16-10-2019, 16:03:44, Wed
+gps coordinates: x; x;
+gps satellites: 4;
+gps time: 13:03:58;
+gps date: 16.10.19;
+temperature(C): 21.50;
+pressure(mmHg): 752.32;
+humidity(%): 19;
+dust: 1;
+sievert(@/42 sec): 12;
+==============================
+
+==============================
+Real time(GMT+3), 03-11-2019, 19:58:56, Sun
+temperature(C): 23.70;
+pressure(mmHg): 739.11;
+humidity(%): 16;
+dust: 0;
+sievert(@/42 sec): 3;
+==============================
+
+==============================
+Real time(GMT+3), 03-11-2019, 20:49:54, Sun
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 00:00:28;
+gps date: 06.01.80;
+temperature(C): 23.40;
+pressure(mmHg): 739.22;
+humidity(%): 20;
+dust: 0;
+sievert(@/42 sec): 9;
+==============================
+
+==============================
+Real time(GMT+3), 03-11-2019, 20:50:39, Sun
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 00:01:13;
+gps date: 06.01.80;
+temperature(C): 23.40;
+pressure(mmHg): 739.29;
+humidity(%): 17;
+dust: 4;
+sievert(@/42 sec): 12;
+==============================
+
+==============================
+Real time(GMT+3), 03-11-2019, 20:51:24, Sun
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 00:01:58;
+gps date: 06.01.80;
+temperature(C): 23.40;
+pressure(mmHg): 739.27;
+humidity(%): 17;
+dust: 0;
+sievert(@/42 sec): 13;
+==============================
+
+==============================
+Real time(GMT+3), 03-11-2019, 22:30:20, Sun
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 00:00:28;
+gps date: 06.01.80;
+temperature(C): 22.20;
+pressure(mmHg): 739.19;
+humidity(%): 19;
+dust: 1;
+sievert(@/42 sec): 12;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 22:56:33, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 00:00:28;
+gps date: 06.01.80;
+temperature(C): 21.30;
+pressure(mmHg): 735.00;
+humidity(%): 21;
+dust: 12;
+sievert(@/42 sec): 11;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 22:57:18, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 00:01:13;
+gps date: 06.01.80;
+temperature(C): 21.40;
+pressure(mmHg): 734.94;
+humidity(%): 21;
+dust: 10;
+sievert(@/42 sec): 15;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 22:58:03, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 00:01:57;
+gps date: 06.01.80;
+temperature(C): 21.40;
+pressure(mmHg): 734.94;
+humidity(%): 21;
+dust: 3;
+sievert(@/42 sec): 15;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 22:59:35, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 19:59:53;
+gps date: 04.11.19;
+temperature(C): 21.80;
+pressure(mmHg): 734.93;
+humidity(%): 21;
+dust: 3;
+sievert(@/42 sec): 19;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 23:00:21, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 20:00:38;
+gps date: 04.11.19;
+temperature(C): 22.10;
+pressure(mmHg): 734.94;
+humidity(%): 21;
+dust: 7;
+sievert(@/42 sec): 17;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 23:01:06, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 20:01:23;
+gps date: 04.11.19;
+temperature(C): 22.20;
+pressure(mmHg): 735.00;
+humidity(%): 21;
+dust: 8;
+sievert(@/42 sec): 14;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 23:02:38, Mon
+temperature(C): 22.50;
+pressure(mmHg): 734.97;
+humidity(%): 20;
+dust: 3;
+sievert(@/42 sec): 14;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 23:03:27, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 20:03:44;
+gps date: 04.11.19;
+temperature(C): 22.60;
+pressure(mmHg): 735.06;
+humidity(%): 20;
+dust: 7;
+sievert(@/42 sec): 15;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 23:04:12, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 20:04:29;
+gps date: 04.11.19;
+temperature(C): 22.60;
+pressure(mmHg): 734.93;
+humidity(%): 20;
+dust: 24;
+sievert(@/42 sec): 16;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 23:04:57, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 20:05:14;
+gps date: 04.11.19;
+temperature(C): 22.80;
+pressure(mmHg): 735.00;
+humidity(%): 20;
+dust: 2;
+sievert(@/42 sec): 12;
+==============================
+
+==============================
+Real time(GMT+3), 04-11-2019, 23:05:43, Mon
+gps coordinates: x; x;
+gps satellites: 1;
+gps time: 20:06:00;
+gps date: 04.11.19;
+temperature(C): 22.80;
+pressure(mmHg): 735.00;
+humidity(%): 20;
+dust: 4;
+sievert(@/42 sec): 21;
+==============================

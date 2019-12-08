@@ -1,0 +1,13 @@
+
+==============================
+Real time(GMT+3), 17-11-2019, 14:51:43, Sun
+gps coordinates: 55.376431; 037.431733;
+gps satellites: 3;
+gps time: 11:52:00;
+gps date: 17.11.19;
+temperature(C): 24.00;
+pressure(mmHg): 754.25;
+humidity(%): 19;
+dust: 8;
+sievert(@/42 sec): 9;
+==============================
