@@ -1,2 +1,2 @@
 # JANZER
-Это репозиторий, в котором хранится вся основная документация по аппаратной части проекта JANZER (мобильной системе экомониторинга) 
+This is a repository that stores all the basic documentation on the hardware of the JANZER project (mobile ecomonitoring system)
